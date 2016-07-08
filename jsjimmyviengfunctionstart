@@ -1,0 +1,20 @@
+    //****************         
+    //project name:
+    //date:
+    //****************
+(function(jimmyvieng, $, undefined) {    
+    //****************         
+    // Functions
+    //****************
+    var init = {
+
+    });
+}
+    }    
+    $(document).ready(function() {
+    //**********************         
+    // Initialize Functions
+    //**********************                                              
+    init.();
+    });        
+}(window.jimmyvieng = window.jimmyvieng || {}, jQuery));
